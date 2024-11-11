@@ -1,0 +1,19 @@
+{
+  "name": "o1_inception",
+  "version": "1.0.0",
+  "description": "This is igniting our app",
+  "main": "APp.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Abkaplesh02/NamasteReact.git)"
+  },
+  "keywords": [],
+  "author": "Abhishek Kaplesh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
