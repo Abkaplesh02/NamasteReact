@@ -1,3 +1,7 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+
 const heading = React.createElement(
     "h1",
     {
@@ -14,12 +18,12 @@ const heading = React.createElement(
 
 // root.render(heading);
 // this render method convert heading javascript object or react element onto browser.
-https://github.com/Abkaplesh02/NamasteReact.git
+// https://github.com/Abkaplesh02/NamasteReact.git
 
 const parent = React.createElement(
     "div", {id: "parent"},
     [React.createElement("div",{id: "child"},
-        [React.createElement("h1",{id: "h11"}," I am h1 tag"), 
+        [React.createElement("h1",{id: "h11"}," This is namaste React"), 
         React.createElement("h2",{id: "h11"}," I am h2 tag")]
     ),
 
